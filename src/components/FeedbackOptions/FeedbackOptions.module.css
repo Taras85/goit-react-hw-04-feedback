@@ -1,0 +1,21 @@
+.buttonSection{
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
+
+.button{
+    color: black;
+    padding: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(31, 29, 28);
+   
+
+    /* display: block; */
+    transition: color 1s;
+    outline: rgba(180, 172, 165, 0.514);
+}
+.button:hover{
+    background: rgb(180, 172, 165);
+    color: white;
+}
