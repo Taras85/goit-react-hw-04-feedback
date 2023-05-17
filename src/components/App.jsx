@@ -1,6 +1,7 @@
 
 import React, { useState} from 'react';
 import s from './App.module.css'
+
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Statistics from './Statistics/Statistics';
 import Section from './Section/Section';
